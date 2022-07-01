@@ -1,0 +1,7 @@
+C:\Users\Sarabi\Desktop\Mohotor\Mohotor\bin\Debug\Mohotor.exe.config
+C:\Users\Sarabi\Desktop\Mohotor\Mohotor\bin\Debug\Mohotor.exe
+C:\Users\Sarabi\Desktop\Mohotor\Mohotor\bin\Debug\Mohotor.pdb
+C:\Users\Sarabi\Desktop\Mohotor\Mohotor\obj\Debug\Mohotor.csproj.CoreCompileInputs.cache
+C:\Users\Sarabi\Desktop\Mohotor\Mohotor\obj\Debug\Mohotor.exe
+C:\Users\Sarabi\Desktop\Mohotor\Mohotor\obj\Debug\Mohotor.pdb
+C:\Users\Sarabi\Desktop\Mohotor\Mohotor\obj\Debug\Mohotor.csprojAssemblyReference.cache
